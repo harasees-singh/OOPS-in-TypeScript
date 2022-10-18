@@ -1,0 +1,11 @@
+{
+  "name": "oops-in-typescript",
+  "version": "1.0.0",
+  "description": "Learn OOPS in the latest and greatest TypeScript",
+  "main": "code/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
